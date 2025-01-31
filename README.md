@@ -23,3 +23,9 @@
 
 # Step 7
 * Push code to GitHub repo
+
+
+
+# Architectural diagram
+![diagram](image.png)
+
